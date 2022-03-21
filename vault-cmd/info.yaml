@@ -1,0 +1,1 @@
+k8s-test:       { host: k8s-test.ezylinux.com,                     port: 6443,    ip: 171.14.16.15,   version: 1.22 }
